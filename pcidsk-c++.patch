@@ -1,0 +1,10 @@
+--- pcidsk-0.3/src/segment/cpcidskapmodel.cpp.orig	2010-03-15 23:43:07.000000000 +0100
++++ pcidsk-0.3/src/segment/cpcidskapmodel.cpp	2010-11-15 08:03:43.487096585 +0100
+@@ -31,6 +31,7 @@
+ #include <utility>
+ #include <vector>
+ #include <cassert>
++#include <cstring>
+ 
+ using namespace PCIDSK;
+ 
