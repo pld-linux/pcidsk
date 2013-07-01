@@ -2,7 +2,7 @@ Summary:	PCIDSK SDK - read/write library for the PCI PCIDSK (.pix) file format
 Summary(pl.UTF-8):	PCIDSK SDK - biblioteka odczytu i zapisu plików w formacie PCI PCIDSK (.pix)
 Name:		pcidsk
 Version:	0.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries
 Source0:	http://home.gdal.org/projects/pcidsk/download/%{name}-%{version}.tar.gz
